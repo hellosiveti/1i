@@ -1,0 +1,20 @@
+1.
+Wymagania Win 7
+•	Procesor 1 GHz lub szybszy, 32-bitowy (x86) lub 64-bitowy (x64)
+•	1 GB (architektura 32-bitowa) lub 2 GB (architektura 64-bitowa) pamięci RAM 
+•	16 GB (architektura 32-bitowa) lub 20 GB (architektura 64-bitowa) wolnego miejsca na dysku twardym 
+•	Urządzenie graficzne DirectX 9 ze sterownikiem WDDM 1.0 lub nowszym
+
+Wymagania Win XP
+Procesor Pentium 233 MHz lub szybszy (zalecane 300 MHz)
+•	Co najmniej 64 MB pamięci RAM (zalecane 128 MB)
+•	Co najmniej 1,5 GB wolnego miejsca na dysku twardym
+•	Stacja dysków CD-ROM lub DVD-ROM
+•	Klawiatura i mysz Microsoft lub zgodne urządzenie wskazujące
+•	Karta wideo i monitor o rozdzielczości Super VGA (800 x 600) lub większej
+
+2. Szybkie formatowanie tworzy tylko tablicę MFT (opisującą strukturę dysku).
+Pełne sprawdza dysk zapisując zera na dysk.
+3.Dysk można podzielić na partycje oraz wybrać docelową do zainstalowania systemu.
+4.Służy do uwierzytelnienia oryginalności systemu po przez podanie klucza.
+5.Plug and Play (z ang. podłącz i używaj) to termin używany na określenie zdolności komputera do pracy z urządzeniami peryferyjnymi zaraz po ich podłączeniu, bez konieczności ponownego uruchamiania maszyny
